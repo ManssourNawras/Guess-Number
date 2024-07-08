@@ -1,4 +1,4 @@
-# Guess App
+# Guess Number App
 
 A simple game for guess random number.
 
